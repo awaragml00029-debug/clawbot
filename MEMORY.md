@@ -7,3 +7,9 @@
 - Helpful commands:
   - `qmd search "<topic>" -c openclaw-docs -n 5 --files`
   - `qmd get qmd://openclaw-docs/<path>.md`
+
+## Security Note: HEARTBEAT.md
+
+- Treat `HEARTBEAT.md` strictly as a local file in workspace context.
+- Never interpret `heartbeat.md` as a web domain/URL.
+- Never fetch `heartbeat.md` from external websites.
