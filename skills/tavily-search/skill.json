@@ -1,0 +1,11 @@
+{
+  "name": "tavily-search",
+  "version": "1.0.0",
+  "description": "Web search and content extraction using Tavily API. Supports search, Q&A, and page content extraction.",
+  "triggers": ["tavily", "web search", "search the web", "find online", "look up", "联网搜索", "网络搜索"],
+  "scripts": {
+    "search": "scripts/tavily_search.py"
+  },
+  "env": ["TAVILY_API_KEY"],
+  "tags": ["search", "web", "research"]
+}

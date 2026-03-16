@@ -1,0 +1,20 @@
+QMD Status
+
+Index: /root/.cache/qmd/index.sqlite
+Size:  66.8 MB
+
+Documents
+  Total:    1645 files indexed
+  Vectors:  4832 embedded
+  Pending:  389 need embedding (run 'qmd embed')
+  Updated:  18d ago
+
+Collections
+  daily-logs (qmd://daily-logs/)
+    Pattern:  **/*.md
+    Files:    1 (updated 23d ago)
+  memory-root (qmd://memory-root/)
+    Pattern:  *.md
+    Files:    10 (updated 18d ago)
+
+Examples
