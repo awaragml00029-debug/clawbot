@@ -1,6 +1,8 @@
 # OpenClaw Memory System 部署指南
 
 > 从零配置 OpenClaw 的 QMD 记忆系统。交给 AI 按此文档执行即可。
+>
+> 基于 OpenClaw v0.7.131 验证。
 
 ## 前置条件
 
